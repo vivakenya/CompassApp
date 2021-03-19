@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068385061605",
+    "project_id": "compass-app-92b0c",
+    "storage_bucket": "compass-app-92b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068385061605:android:708cf8c79227769784a20c",
+        "android_client_info": {
+          "package_name": "com.malikali.compassapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068385061605-f1b7059br67k0pg0ne98srduu7hha77r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzk_bsYZU4_TYvQ2wSlInV7e3oy9bVEgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068385061605-f1b7059br67k0pg0ne98srduu7hha77r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

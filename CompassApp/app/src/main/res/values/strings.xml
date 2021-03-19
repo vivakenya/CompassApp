@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Compass App</string>
+    <string name="set_destination">Set destination</string>
+    <string name="please">Please enter destination</string>
+    <string name="ok">Ok</string>
+    <string name="dest_loc">Enter Destination</string>
+    <string name="enterCoords">Enter coordinates below</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longitude</string>
+    <string name="pleasedistorcoords">Please enter destination or coordinates</string>
+    <string name="cancel">Cancel</string>
+    <string name="stop_notifications">Stop notification</string>
+    <string name="not_available">Not available</string>
+    <string name="loc_is_off">Location is off</string>
+    <string name="pleaseturnonGPS">Please turn on your location</string>
+    <string name="open_location_settings">OPEN LOCATION SETTINGS</string>
+    <string name="Cancel">CANCEL</string>
+    <string name="offlinecheckconnection">"You are now offline. Please turn on your internet "</string>
+    <string name="distancefrom">Distance from the destination is</string>
+</resources>
